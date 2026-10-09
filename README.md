@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha base em Tecnologia da Informação por meio de estudos, projetos práticos e aprendizado contínuo.
 
-Atualmente, estou direcionando minha formação para **Desenvolvimento de Software, Cybersecurity e Criptografia**, buscando transformar conhecimento teórico em soluções práticas, documentadas e cada vez mais seguras.
+Atualmente, estou direcionando minha formação para **Desenvolvimento de Software, Cybersecurity, Criptografia e IA**, buscando transformar conhecimento teórico em soluções práticas, documentadas e cada vez mais seguras.
 
 Este perfil acompanha minha evolução técnica, projetos e experiências ao longo dessa jornada.
 
@@ -17,7 +17,7 @@ Este perfil acompanha minha evolução técnica, projetos e experiências ao lon
 - 🔧 Git & GitHub
 - 🐧 Linux
 - 🌐 Redes de Computadores
-- 🧠 Estruturas de Dados e Algoritmos
+- 🧠 IA, Estruturas de Dados e Algoritmos
 - 🌐 Desenvolvimento Web e Backend
 - 🛡️ Cybersecurity
 - 🔐 Criptografia
